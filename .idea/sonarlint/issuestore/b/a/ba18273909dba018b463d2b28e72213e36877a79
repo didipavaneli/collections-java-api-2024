@@ -1,0 +1,12 @@
+
+‡	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(­Ê†f8ÀÓ¶œ”2J$71641e31-a8ac-443a-90a8-6172c0abb4f8
+š
+java:S1192"XDefine a constant instead of duplicating this literal "O conjunto estÃ¡ vazio!" 3 times.(­Ê†f8ÁÓ¶œ”2J$21f77786-22fc-48ba-aa36-5c46aa1984fa
+l	java:S106!"+Replace this use of System.out by a logger.(³ÙýU8ËÓ¶œ”2J$7204473b-26a5-4108-8d0f-c2ad67fed275
+m	java:S106("+Replace this use of System.out by a logger.(ïñÚ’8ÌÓ¶œ”2J$8de33a95-2941-449d-b870-02dccbad2076
+r	java:S106*"+Replace this use of System.out by a logger.(éþ²Õýÿÿÿÿ8ÌÓ¶œ”2J$c434cb0c-2ff7-4cf1-a6b3-11864a56b470
+r	java:S1062"+Replace this use of System.out by a logger.(‹¸»ßýÿÿÿÿ8ÍÓ¶œ”2J$df089716-391c-4643-8d44-44010ac5f33f
+r	java:S1064"+Replace this use of System.out by a logger.(éþ²Õýÿÿÿÿ8ÍÓ¶œ”2J$21593ae6-4054-4a43-bf54-3b4cea9e2e70
+m	java:S106C"+Replace this use of System.out by a logger.(ýžˆª8ÐÓ¶œ”2J$e90d5be9-5e5a-4b31-b8c0-203a3460964a
+r	java:S106D"+Replace this use of System.out by a logger.(ýÉö‡üÿÿÿÿ8ÐÓ¶œ”2J$b67f199a-6a6a-464c-a4d0-6946e9b2056d
+r	java:S106I"+Replace this use of System.out by a logger.(ýÉö‡üÿÿÿÿ8ÑÓ¶œ”2J$785c1099-88ce-4fe8-8cc7-367904d498e8

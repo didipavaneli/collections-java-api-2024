@@ -25,3 +25,11 @@ e
 5src/main/set/operacoesBasicas/ConjuntoConvidados.java,a\8\a8967c10a5e29abd548b8cceca1ad7bbe4245ffb
 i
 9src/main/set/operacoesBasicas/ConjuntoPalavrasUnicas.java,7\c\7cdba4be3203a020f7fa5ee55d365bdfd9382902
+Q
+!src/main/set/ordenacao/Aluno.java,4\7\47204c7c59a6f40270620514a55a812d77a4c544
+\
+,src/main/set/ordenacao/CadastroProdutos.java,f\2\f213a5c897a9bec22af6abe652455923e4df61db
+]
+-src/main/set/ordenacao/GerenciadorAlunos.java,b\a\ba18273909dba018b463d2b28e72213e36877a79
+S
+#src/main/set/ordenacao/Produto.java,0\0\0002b1d6ce5d014c3781f2d953f3ac6099227f88
