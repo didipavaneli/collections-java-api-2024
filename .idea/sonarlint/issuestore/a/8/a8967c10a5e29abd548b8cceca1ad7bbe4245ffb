@@ -1,0 +1,12 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïõ¹ŠýÿÿÿÿJ$a4b368e2-ec44-484a-a341-8026b3638bca
+‡	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(­Ê†f8‘¢šœ”2J$682a787b-d19c-4f2e-84d5-b111423796c0
+Œ
+java:S11921"IDefine a constant instead of duplicating this literal "Existem " 3 times.(¹ºËõ8—¢šœ”2J$94621fc6-4563-4ebd-b4ec-3d8464e5dfd0
+r	java:S106&"+Replace this use of System.out by a logger.(í¬ò™ûÿÿÿÿ8ž¢šœ”2J$14984fe1-f8a4-41b3-bf85-da80394e3aae
+r	java:S106("+Replace this use of System.out by a logger.(éþ²Õýÿÿÿÿ8Ÿ¢šœ”2J$b1c7f934-ceb9-49f9-91b5-946bd228d255
+m	java:S1061"+Replace this use of System.out by a logger.(¹ºËõ8¢¢šœ”2J$c8b83312-ce97-46fc-9fe3-bdf4b2c48c00
+m	java:S106:"+Replace this use of System.out by a logger.(“Í²Ø8£¢šœ”2J$bb8631c6-ec95-468a-8f01-cd04178ecdbb
+m	java:S106>"+Replace this use of System.out by a logger.(¹ºËõ8¦¢šœ”2J$ec99f328-c49f-452f-91fb-b917643a9ac0
+m	java:S106B"+Replace this use of System.out by a logger.(Ê‹×®8¨¢šœ”2J$1b58d5af-bb31-4801-b506-a37fc578d38b
+r	java:S106E"+Replace this use of System.out by a logger.(†éâ“üÿÿÿÿ8©¢šœ”2J$fe4f6e03-ae2d-4663-a31c-db629c6a67ee

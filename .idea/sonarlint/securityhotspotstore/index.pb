@@ -19,3 +19,9 @@ S
 -src/main/list/ordenacao/OrdenacaoPessoas.java,0\7\079a4cdbc3b21102cb2beb3b89308c1eb971eefc
 ]
 -src/main/list/ordenacao/OrdenacaoNumeros.java,1\a\1ae0645158f544f050931bbe01aa4dc5b566fd34
+\
+,src/main/set/operacoesBasicas/Convidado.java,f\1\f1cd9690d3f4a53b0f970287dae87ede6666c5bd
+e
+5src/main/set/operacoesBasicas/ConjuntoConvidados.java,a\8\a8967c10a5e29abd548b8cceca1ad7bbe4245ffb
+i
+9src/main/set/operacoesBasicas/ConjuntoPalavrasUnicas.java,7\c\7cdba4be3203a020f7fa5ee55d365bdfd9382902
