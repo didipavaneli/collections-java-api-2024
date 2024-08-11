@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ëŞÀ8„İ–”2J$ccb04492-8b54-4ec5-8137-3157874d56f7
+	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(ÈñØìüÿÿÿÿ8‰İ–”2J$36da0cd8-97d3-434f-9bf6-93ab230018cf
+
+java:S1192="FDefine a constant instead of duplicating this literal "Lapis" 3 times.(íëìŒÿÿÿÿÿ8†ã–”2J$5fcaecc8-e46f-4ffd-b9ee-8c51d1fbccd2
+
+java:S1192"UDefine a constant instead of duplicating this literal "A lista estÃ¡ vazia!" 3 times.(¬õÕ±ûÿÿÿÿ8Šİ–”2J$c864ec79-aed7-4635-92a8-3676514985b6
+r	java:S106"+Replace this use of System.out by a logger.(¬õÕ±ûÿÿÿÿ8‘İ–”2J$5af128ba-e7eb-46f7-958e-f32af4bc21a0
+m	java:S106,"+Replace this use of System.out by a logger.(ˆç“±8•İ–”2J$f93a6253-a21a-460e-ae7c-b60a761289d6
+r	java:S106/"+Replace this use of System.out by a logger.(¬õÕ±ûÿÿÿÿ8•İ–”2J$9b16b486-5a9e-4d27-b698-c0d451ba060b
+m	java:S106H"+Replace this use of System.out by a logger.(˜ø·8Â‡å–”2J$4fd94640-0945-401f-8f55-246733fb6b8b
