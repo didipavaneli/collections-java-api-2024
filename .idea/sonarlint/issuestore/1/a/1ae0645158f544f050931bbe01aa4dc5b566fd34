@@ -1,0 +1,9 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÈñØìüÿÿÿÿ8ÿ”³›”2J$1d43aa25-5c5d-400a-bb20-4ad55aefe0e0
+	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(ÈñØìüÿÿÿÿ8ÿ”³›”2J$e8385eba-a140-4e90-ba75-8758a5d7e7ee
+
+java:S1192"UDefine a constant instead of duplicating this literal "A lista estÃ¡ vazia!" 3 times.(ÈñØìüÿÿÿÿ8ÿ”³›”2J$ba679e5b-a1d5-4dc8-b349-377b668659bf
+r	java:S106&"+Replace this use of System.out by a logger.(‡ÓÂ¹ûÿÿÿÿ8‰•³›”2J$af3da4d3-7c0a-4246-82dd-c3b8042ba85c
+r	java:S106("+Replace this use of System.out by a logger.(¬õÕ±ûÿÿÿÿ8Š•³›”2J$47204270-90cb-43a5-86cc-062697acb9f7
+G	java:S106;"+Replace this use of System.out by a logger.(ÚÉƒ­8«Ÿ´›”2
+L	java:S106A"+Replace this use of System.out by a logger.(ğ™ó°üÿÿÿÿ8¬Ÿ´›”2

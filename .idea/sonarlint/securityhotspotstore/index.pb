@@ -13,3 +13,9 @@ Z
 *src/main/list/pesquisa/CatalogoLivros.java,6\f\6f853cf3762bed6da44133d85107bd9fa8a4f361
 W
 'src/main/list/pesquisa/SomaNumeros.java,d\0\d07196659d35ae0c5e330645d070886bd70a99b2
+S
+#src/main/list/ordenacao/Pessoa.java,1\5\15f59234f985f2d869a415fb95550afc09aaa8ff
+]
+-src/main/list/ordenacao/OrdenacaoPessoas.java,0\7\079a4cdbc3b21102cb2beb3b89308c1eb971eefc
+]
+-src/main/list/ordenacao/OrdenacaoNumeros.java,1\a\1ae0645158f544f050931bbe01aa4dc5b566fd34
