@@ -1,0 +1,9 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ€‚¨J$229d9d1d-6c79-44b2-87a7-adddb12ebe06
+5
+java:S1700"Rename field "dicionario"(¥¿É88öû·”2
+L	java:S106"+Replace this use of System.out by a logger.(¦å’ùÿÿÿÿ8ıû·”2
+G	java:S106#"+Replace this use of System.out by a logger.(îÃë’8€ü·”2
+L	java:S106%"+Replace this use of System.out by a logger.(¦å’ùÿÿÿÿ8€ü·”2
+L	java:S1066"+Replace this use of System.out by a logger.(ü·¢ûÿÿÿÿ8‚ü·”2
+L	java:S1069"+Replace this use of System.out by a logger.(¯œ×¼üÿÿÿÿ8‚ü·”2

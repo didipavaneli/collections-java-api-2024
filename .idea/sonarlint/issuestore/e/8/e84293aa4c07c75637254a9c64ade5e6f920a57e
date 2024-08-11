@@ -1,0 +1,11 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ€‚¨J$0e252604-34a9-458a-a599-12250ddcbf47
+„
+java:S1192"bDefine a constant instead of duplicating this literal "A agenda de contatos estÃ¡ vazia." 3 times.(œ¸Á—úÿÿÿÿ8¼¹”2
+L	java:S106"+Replace this use of System.out by a logger.(œ¸Á—úÿÿÿÿ8È¹”2
+G	java:S106"+Replace this use of System.out by a logger.(ÏÌ¾’8Ë¹”2
+L	java:S106"+Replace this use of System.out by a logger.(œ¸Á—úÿÿÿÿ8Ë¹”2
+L	java:S106'"+Replace this use of System.out by a logger.(£ì–øüÿÿÿÿ8Î¹”2
+L	java:S106*"+Replace this use of System.out by a logger.(œ¸Á—úÿÿÿÿ8Ñ¹”2
+G	java:S106C"+Replace this use of System.out by a logger.(¢ø¿à8Õ¹”2
+G	java:S106G"+Replace this use of System.out by a logger.(Ø¥Ø×8×¹”2
