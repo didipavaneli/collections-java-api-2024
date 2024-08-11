@@ -1,0 +1,10 @@
+
+a	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(­Ê†f8ÍòÅœ”2
+a	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(­Ê†f8ÎòÅœ”2
+z
+java:S1192"XDefine a constant instead of duplicating this literal "O conjunto estÃ¡ vazio!" 3 times.(éş²Õıÿÿÿÿ8ÏòÅœ”2
+G	java:S106"+Replace this use of System.out by a logger.(ªÛº8ÕòÅœ”2
+L	java:S106"+Replace this use of System.out by a logger.(éş²Õıÿÿÿÿ8ÕòÅœ”2
+L	java:S106I"+Replace this use of System.out by a logger.(§ğ¯ƒşÿÿÿÿ8İòÅœ”2
+G	java:S106M"+Replace this use of System.out by a logger.(©Åçğ8ßòÅœ”2
+G	java:S106P"+Replace this use of System.out by a logger.(…Ÿáş8âòÅœ”2

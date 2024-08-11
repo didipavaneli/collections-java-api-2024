@@ -33,3 +33,11 @@ Q
 -src/main/set/ordenacao/GerenciadorAlunos.java,b\a\ba18273909dba018b463d2b28e72213e36877a79
 S
 #src/main/set/ordenacao/Produto.java,0\0\0002b1d6ce5d014c3781f2d953f3ac6099227f88
+Q
+!src/main/set/pesquisa/Tarefa.java,7\c\7ce1ebe098f1b4792e7af457e57e47d3a3783a15
+R
+"src/main/set/pesquisa/Contato.java,8\b\8b36f10e66e45bc5cfa435ffb6aa06808e719ae3
+W
+'src/main/set/pesquisa/ListaTarefas.java,c\c\cc208a42ac97273ddb7633e7b3148d3a6e564b29
+Y
+)src/main/set/pesquisa/AgendaContatos.java,2\e\2e03f5d2b16c300285555cbfb2b04dfc476adfd4
